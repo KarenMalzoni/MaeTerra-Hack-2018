@@ -1,0 +1,40 @@
+.login_screen{
+	float: center;
+}
+
+.login_fields{
+	height:24px;
+	width: 310px;
+	background-color: #CDCDCD;
+}
+
+.footer {
+    margin-top: 300px;
+    position: relative;
+    display: block;
+    float: center;
+    background-color: white;
+}
+
+.login_words{
+	height: 24px;
+	width: 300px;
+	float: center;
+	font-size: 24px;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  width: 1400px;
+  height: 130px;
+  background-color: white;
+  font-size: 24px;
+}
+
+.content{
+	bottom: 0;
+	float: center;
+}
